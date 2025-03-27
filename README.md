@@ -29,8 +29,8 @@ This notebook performs feature engineering, hyperparameter tuning, and model tra
 
 Installation & Dependencies
 To run the notebooks, ensure you have the required Python libraries installed:
-'''bash
-pip install numpy pandas matplotlib seaborn scikit-learn keras tensorflow
+```numpy pandas matplotlib seaborn scikit-learn keras tensorflow```
+
 
 Usage
 Run imputation.ipynb to preprocess the raw data.
